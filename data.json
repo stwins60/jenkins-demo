@@ -1,0 +1,8 @@
+{
+    "extra_vars": {
+        "env": "dev",
+        "region": "us_east_1",
+        "test_type": ["private", "outbound"],
+        "analytic": "false"
+    }
+}
